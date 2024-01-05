@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Fluxe",
+  "Type": "App",
+  "Id": "_waXLmEuM0eYQw0vaDctcg",
+  "Reference": "Xya7HOgvbUCld5N3wVwMzw/_waXLmEuM0eYQw0vaDctcg",
+  "Created": "2023-12-29T07:47:07.2541238Z",
+  "Updated": "2023-12-29T07:47:07.2541238Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
